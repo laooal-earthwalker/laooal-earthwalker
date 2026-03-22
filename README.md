@@ -1,5 +1,6 @@
 ![Industry: Health Tech](https://img.shields.io/badge/Industry-Health%20Tech-green)
 ![Location](https://img.shields.io/badge/Location-Boulder%2C%20CO-blue)
+
 I want to identify and reduce the frequency of soft tissue pain worldwide through automation, user experience, and clinical context.
 
 ## Hi there 👋
