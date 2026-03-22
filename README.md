@@ -14,6 +14,6 @@ I run Boulder Pain Relief Massage, LLC, where I bridge the gap between manual th
 * 🌱 Learning: AI-driven SEO and patient review automation.
 * 💬 Ask me about: Medical massage, clinical bodywork, and tech for small clinics.
 - 👯 I’m looking to collaborate on ... addressing pain, helping people, building cool things. 
-- 💬 Ask me about ... any soft tissue paint you're dealing with, I can help!
+- 💬 Ask me about ... any soft tissue pain you're dealing with, I can help!
 - ⚡ Fun fact: ...I've trained in Tai Chi since 2011, have lived in China, and competed in 3 international martial art competitions.
 -->
