@@ -7,7 +7,7 @@
 
 ---
 
-I'm a licensed massage therapist who got tired of the gap between what clinical bodywork can do and how few people have access to it. So I started building.
+I'm a licensed and certified massage therapist who got tired of the gap between what clinical bodywork can do and how few people have access to it. So I started building.
 
 My practice is built on a simple premise: most chronic pain and movement limitations have a soft-tissue pattern that can be identified and addressed. I'm now building software to extend that clinical thinking beyond the treatment room.
 
@@ -37,7 +37,7 @@ The app also includes an education library, gated video courses, anatomy guides,
 
 ## Background
 
-- Licensed Massage Therapist — Colorado State Licensed (LMT)
+- Licensed & Certified Massage Therapist — Colorado State Licensed (LMT)
 - Specialties: deep tissue, myofascial release, sports massage, TMJD, surgical recovery
 - Clients: desk workers, endurance athletes, CrossFit athletes, pre/post-op
 - Independent practice inside CrossFit Sanitas, Boulder, CO
